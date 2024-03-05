@@ -1,0 +1,19 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "for research only",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bing-translate-api": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "node_characterai": "^1.2.5",
+    "puppeteer": "^22.3.0",
+    "require-all": "^3.0.0"
+  }
+}
